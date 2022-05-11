@@ -1,0 +1,32 @@
+{
+    "questions": [{
+        "questionId":1,
+        "question":"How do i choose a plant?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    },
+    {
+        "questionId":2,
+        "question":"How do I change the pots?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    },
+    {
+        "questionId":3,
+        "question":"Why are gnats flying around my plant?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    },
+    {
+        "questionId":4,
+        "question":"My flowers are falling off or dying?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    },
+    {
+        "questionId":5,
+        "question":"What causes leaves to become pale?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    },
+    {
+        "questionId":6,
+        "question":"What causes brown crispy leaves?",
+        "answer":"Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant."
+    }]
+}

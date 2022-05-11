@@ -1,0 +1,17 @@
+{
+    "steps": [{
+        "stepNo":"01",
+        "stepTitle":"Choose Plant",
+        "stepDescription":"We have several varieties plants you can choose from."
+    },
+    {
+        "stepNo":"02",
+        "stepTitle":"Place an order",
+        "stepDescription":"Once your order is set, we move to the next step which is the shipping."
+    },
+    {
+        "stepNo":"03",
+        "stepTitle":"Get plants delivered",
+        "stepDescription":"Our delivery process is easy, you receive the plant direct to your door."
+    }]
+}

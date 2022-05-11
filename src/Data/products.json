@@ -1,0 +1,38 @@
+{
+    "products": [{
+        "productId":1,
+        "productName":"Cacti Plant",
+        "productPrice":19.99,
+        "srcImage":"src/assets/img/product1.png"
+    },
+    {
+        "productId":2,
+        "productName":"Cactus Plant",
+        "productPrice":11.99,
+        "srcImage":"src/assets/img/product2.png"
+    },
+    {
+        "productId":3,
+        "productName":"Aloe Vera Plant",
+        "productPrice":29.99,
+        "srcImage":"src/assets/img/product3.png"
+    },
+    {
+        "productId":4,
+        "productName":"Succulent Plant",
+        "productPrice":9.99,
+        "srcImage":"src/assets/img/product4.png"
+    },
+    {
+        "productId":5,
+        "productName":"Succulent Plant",
+        "productPrice":14.99,
+        "srcImage":"src/assets/img/product5.png"
+    },
+    {
+        "productId":6,
+        "productName":"Green Plant",
+        "productPrice":8.99,
+        "srcImage":"src/assets/img/product6.png"
+    }]
+}
